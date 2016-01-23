@@ -1,0 +1,2 @@
+# palpiteiros
+Palpites com amigos
